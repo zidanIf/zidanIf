@@ -3,7 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zidanif&label=Profile%20views&color=0e75b6&style=flat" alt="zidanif" /> </p>
 <h2 >Hi there👋</h2>
 <P>halo perkenalkan nama saya <b>Zidan Ishan Fauzi</b>.saya memiliki skil yaitu<b> Html,Css,Javascript,Sass,React.js,Bootstrap.</b></br>
-  Saya tinggal di Indonesia tepatnya di Bekasi dan saya juga manusia biasa yang tempat nya salah dan juga bukan robot yang selalu benar.kalau mau berteman dengan saya kamu bisa berteman melalui instagram dan facebook dan terimakasih telah mengunjungi github saya.</p> 
+  Saya tinggal di Indonesia tepatnya di Bekasi.kalau mau berteman dengan saya kamu bisa ber teman melalui instagram dan facebook dan terimakasih telah mengunjungi github saya.</p> 
+<a href="https://sociabuzz.com/zidanfauzi/tribe">💰Donate</a>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zidanishan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zidan_i_) 
@@ -19,10 +20,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zidanIf&theme=nightowl&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=zidanIf&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Random  Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)</br>
 <!--   ## 💰You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Zidan fauzi)  -->
+
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
  
